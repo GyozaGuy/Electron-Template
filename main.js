@@ -2,8 +2,8 @@
 
 // Change these to customize the app
 var url = '<URL HERE>';
-var height = <WIDTH HERE>;
-var width = <HEIGHT HERE>;
+var height = <HEIGHT HERE>;
+var width = <WIDTH HERE>;
 
 // Everything below this should be the same for most apps
 var electron = require('electron');
